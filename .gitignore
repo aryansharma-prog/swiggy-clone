@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+.out/
+.next/
+.cache/
+coverage/
+.vite/
+.parcel-cache/
+.env
+.env.*
+*.log
+*.zip
+*.mp4
+*.mov
+*.pdf
